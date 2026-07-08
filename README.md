@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi, I'm Ashhh 👋
 
-<!--
-**Aswinsk-2103/Aswinsk-2103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Artificial Intelligence student passionate about software development, AI, and building real-world projects.
 
-Here are some ideas to get you started:
+I'm currently working on an AI-powered productivity platform, while improving my full-stack development and problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C++
+- Python
+- JavaScript
+- React 
+- Supabase
+- Git & GitHub
+
+- Email: skaswin763@gmail.com
+- LinkedIn: https://www.linkedin.com/in/aswin-selva-b07462331/
