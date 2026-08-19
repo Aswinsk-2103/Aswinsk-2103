@@ -13,3 +13,6 @@ I'm currently working on an AI-powered productivity platform, while improving my
 
 - Email: skaswin763@gmail.com
 - LinkedIn: https://www.linkedin.com/in/aswin-selva-b07462331/
+
+## Watch snake eating my github contribution
+![snake gif](https://github.com/Aswinsk-2103/Aswinsk-2103/blob/output/github-contribution-grid-snake.svg)
