@@ -1,15 +1,15 @@
 <h1 align="center">
-  <font color="#A020F0">Aswin SK</font>
+  <font color="#A020F0">Aswin SK </font>
 
   <p align="center">
 <br>
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=E040FB&center=true&width=800&lines=Full-Stack+Developer;" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3000&pause=1000&color=E040FB&center=true&width=800&lines=Full-Stack+Developer;" 
     alt="Typing Effect" 
   />
 </p></h1>
 
-
+<br>
 - 👯 I’m looking to collaborate on **AI-Based projects**
 
 - 🤝 I’m looking for help with **Machine Learning**
