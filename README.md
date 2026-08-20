@@ -1,5 +1,14 @@
-<h1 align="center">Hi 👋, I'm ASWIN SK</h1>
-<h3 align="center">Artificial Intelligence Student Passionate About Software Development</h3>
+<div align="center">
+
+<!-- Animated Header -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=A953FF&center=true&vcenter=true&width=600&height=100&lines=Aswinnnnnnn!;Software+Developer" alt="Typing SVG" />
+</a>
+
+</div>
+
+
+---
 
 - 👯 I’m looking to collaborate on **AI-Based projects**
 
