@@ -1,14 +1,14 @@
-<div align="center">
+<h1 align="center">
+  <font color="#A020F0">Aswin SK</font>
 
-<!-- Animated Header -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=A953FF&center=true&vcenter=true&width=600&height=100&lines=Aswinnnnnnn!;Software+Developer" alt="Typing SVG" />
-</a>
+  <p align="center">
+<br>
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=E040FB&center=true&width=800&lines=Full-Stack+Developer;" 
+    alt="Typing Effect" 
+  />
+</p></h1>
 
-</div>
-
-
----
 
 - 👯 I’m looking to collaborate on **AI-Based projects**
 
