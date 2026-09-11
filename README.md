@@ -5,8 +5,11 @@
 ### AI & Data Science Student | AI/ML Developer | Problem Solver
 
 <p>
-  <a href="https://github.com/Aswinsk-2103">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://www.linkedin.com/in/aswin-selva-b07462331/">
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/bqOrxs5Tph/">
+    <img src="https://img.shields.io/badge/LEETCODE-PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
 
@@ -177,7 +180,7 @@ A responsive credit card management interface featuring **secure form validation
 
 <div align="center">
 
-<a href="https://leetcode.com/">
+<a href="https://leetcode.com/u/bqOrxs5Tph/">
   <img src="https://img.shields.io/badge/LeetCode-1200%2B%20Rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
@@ -206,6 +209,18 @@ A responsive credit card management interface featuring **secure form validation
 ## 🌐 Connect With Me
 
 <div align="center">
+
+<a href="https://www.linkedin.com/in/aswin-selva-b07462331/">
+  <img src="https://img.shields.io/badge/LinkedIn-Aswin%20Selva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://leetcode.com/u/bqOrxs5Tph/">
+  <img src="https://img.shields.io/badge/LeetCode-Aswin%20SK-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+&nbsp;&nbsp;
 
 <a href="https://github.com/Aswinsk-2103">
   <img src="https://img.shields.io/badge/GitHub-Aswinsk--2103-181717?style=for-the-badge&logo=github&logoColor=white" />
