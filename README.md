@@ -8,6 +8,7 @@
   <a href="https://www.linkedin.com/in/aswin-selva-b07462331/">
     <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  
   <a href="https://leetcode.com/u/bqOrxs5Tph/">
     <img src="https://img.shields.io/badge/LEETCODE-PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
@@ -17,14 +18,10 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Connect with Me
 
-- 🎓 Currently pursuing **B.Tech in Artificial Intelligence & Data Science** at **Sri Eshwar College of Engineering**
-- 🤖 Interested in **Artificial Intelligence, Machine Learning, NLP & Generative AI**
-- 💻 Building solutions with **Python, C++, Java, SQL, FastAPI and REST APIs**
-- ☁️ Exploring **Azure Cognitive Services, Azure OpenAI, Azure Functions & App Service**
-- 🧠 Practicing **Data Structures & Algorithms, OOPs, OS, CN & DBMS**
-- 🚀 Interested in building intelligent systems and practical software solutions
+**Lets play together** :https://play-with-me-alpha.vercel.app/
+
 
 ---
 
@@ -73,10 +70,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="55" height="55" alt="NumPy">
 </p>
 
-**Machine Learning & NLP:** Naive Bayes • TF-IDF • CNNs (Fine-tuned) • Spam Detection • Image Classification
-
-**AI/ML & GenAI:** PyTorch • Scikit-learn • Deep Learning • NLP • Vector DBs • RAG • AI Agents
-
 ### 🌐 Backend, Cloud & Databases
 
 <p align="center">
@@ -95,74 +88,12 @@
 
 **Cloud & Azure:** Azure Cognitive Services (Vision, Language) • Azure OpenAI • Azure Functions • App Service
 
----
+**Machine Learning & NLP:** Naive Bayes • TF-IDF • CNNs (Fine-tuned) • Spam Detection • Image Classification
 
-## 🚀 Featured Projects
+**AI/ML & GenAI:** PyTorch • Scikit-learn • Deep Learning • NLP • Vector DBs • RAG • AI Agents
 
-### 🧠 Mental Health Analysis
-
-**Java • Swing • MySQL**
-
-A mental health management application providing **mood tracking, user authentication, and personalized wellness resources**.
-
-**Focus:** Java Development • Desktop Applications • MySQL • User Management
 
 ---
-
-### 🚗 Vehicle Service Booking
-
-**JavaScript • HTML • CSS**
-
-An online vehicle service booking system with **appointment scheduling, service selection, and customer management** features.
-
-**Focus:** Web Development • Booking System • Customer Management
-
----
-
-### 💳 Credit Card Manager
-
-**HTML • CSS • JavaScript**
-
-A responsive credit card management interface featuring **secure form validation, transaction visualization, and a user-friendly dashboard**.
-
-**Focus:** Frontend Development • Form Validation • Data Visualization
-
----
-
-## 💼 Internship Experience
-
-### 🤖 Agentic AI Intern — Algotutor | 2025
-
-- Designed and developed **autonomous AI agents using LLMs**.
-- Worked on **multi-step reasoning, planning, and task execution**.
-- Built AI agents for **task automation, reasoning, and decision-making**.
-
-### 🌐 MERN Stack Development | 2025
-
-- Built and collaborated on **full-stack development projects**.
-- Worked across **UI design, API development, and database management** using the MERN stack.
-
----
-
-## 🏆 Achievements
-
-- 🥇 Participated in **Technova – 24 hrs Hackathon** and got shortlisted in **2025**
-- 🔓 Contributed to **open-source GitHub repositories** through pull requests, issue resolutions, and feature enhancements
-- 💻 **LeetCode:** Max Rating **1200+** | Global Rank **3,688,793** | Top **70%**
-- 🧩 **SkillRack:** Elite Rank **25,802+** | **700+ problems solved**
-
----
-
-## 📜 Certifications
-
-- 🏅 **Oracle Java Foundations Certified** — OOP concepts, core Java APIs, and software design principles — **2026**
-- 🏅 **HackerRank Software Engineer Intern Certification** — Cleared role-based assessment — **2026**
-- 🏅 **HackerRank SQL Intermediate** — Passed HackerRank skill certification test — **2025**
-- 📘 **Mastering Data Structures & Algorithms using C and C++** — Udemy — **2024**
-- 📘 **Certificate for the Completion of Python Training** — **2024**
-
----
-
 ## 🧠 Core Computer Science
 
 | Area | Skills |
