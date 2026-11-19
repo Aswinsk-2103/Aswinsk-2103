@@ -20,7 +20,7 @@
 
 ## 👨‍💻 Connect with Me
 
-**Lets play together** :https://play-with-me-alpha.vercel.app/
+**Lets play together :** https://play-with-me-alpha.vercel.app/
 
 
 ---
